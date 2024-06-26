@@ -5,7 +5,7 @@
 [![Instagram_Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adrielle.dev)
 
 ##
-<img align="right" alt="Programmer Work" src="./programmerWork.jpg"  width="300px"/>
+<img align="right" alt="Programmer Work" src="https://github.com/AdrielleH/AdrielleH/assets/80976887/5d7bdb97-16a8-4535-80cb-dcfe93163b3e"  width="300px"/>
 
 ## I'm Adrielle Henrique
 (Ruby | Rails | AWS | React JS | Vue.js | Node.js | Typescript | Javascript | HTML | CSS ) 🚀
